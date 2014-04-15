@@ -1,0 +1,4 @@
+swiftpal
+========
+
+Parse SWIFT messages 
